@@ -1,12 +1,5 @@
 # бинанс-торговля-бот
 
-![github](https://img.shields.io/github/workflow/status/edeng23/binance-trade-bot/binance-trade-bot)
-![докер](https://img.shields.io/docker/pulls/edeng23/binance-trade-bot)
-[![Развернуть](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/edeng23/binance-trade- бот)
-
-[![Развертывание в DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/ новый?repo=https://github.com/coinbookbrasil/binance-trade-bot/tree/master&refcode=a076ff7a9a6a)
-> Автоматизированный бот для торговли криптовалютой
-
 ## Почему?
 
 Этот проект был вдохновлен наблюдением, что все криптовалюты ведут себя примерно одинаково. Когда один всплеск, они все всплеск, и когда один ныряет, они все делают. _Довольно много_. Более того, все монеты следуют примеру Биткойна; разница в их фазовом сдвиге.
